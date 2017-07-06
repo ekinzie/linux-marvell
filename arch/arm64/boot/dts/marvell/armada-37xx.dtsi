@@ -49,6 +49,8 @@
 #include <dt-bindings/phy/phy-utmi-mvebu.h>
 #include <dt-bindings/phy/phy-comphy-mvebu.h>
 
+#include "musdk-armada-37xx.dtsi"
+
 / {
 	model = "Marvell Armada 37xx SoC";
 	compatible = "marvell,armada3700";

@@ -45,6 +45,7 @@
  */
 
 #include "armada-8040.dtsi"
+#include "musdk-armada-8040-mcbin.dtsi"
 
 / {
 	model = "Marvell 8040 MACHIATOBin";

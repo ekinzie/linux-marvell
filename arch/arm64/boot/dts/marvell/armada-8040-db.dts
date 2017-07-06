@@ -47,6 +47,8 @@
  */
 
 #include "armada-8040-db.dtsi"
+#include "musdk-armada-8040-db.dtsi"
+
 
 / {
 	model = "Marvell Armada-8040 development board default (A) setup";
